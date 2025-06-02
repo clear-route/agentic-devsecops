@@ -17,30 +17,43 @@ As an Executive, your strategic interests likely include:
 This reading path prioritizes high-level strategic insights, business value, governance, and market context. The `.md` summaries offer quick overviews.
 
 ### Phase 1: Strategic & Business Impact of AI and Automation
-1.  **"Driving ROI Through AI (Econsult)"** (`business_outcomes/Driving_ROI_Through_AI_Econsult_2020.md`)
+1.  **"Driving ROI Through AI (Econsult)"** (`../business_outcomes/Driving_ROI_Through_AI_Econsult_2020.md`)
     *   **Why**: Provides essential insights into how leading firms achieve ROI with AI, setting a baseline for evaluating Agentic DevSecOps initiatives.
-2.  **"Calculating ROI Intelligent Automation (Deloitte)"** (`business_outcomes/Calculating_ROI_Intelligent_Automation_Deloitte.md`)
+2.  **"Calculating ROI Intelligent Automation (Deloitte)"** (`../business_outcomes/Calculating_ROI_Intelligent_Automation_Deloitte.md`)
     *   **Why**: Offers a framework for understanding the value proposition of intelligent automation, directly relevant to the benefits agents can bring.
-3.  **"AI in Cybersecurity (NACD Handbook)"** (`business_outcomes/AI_in_Cybersecurity_NACD_Handbook.md`)
+3.  **"AI in Cybersecurity (NACD Handbook)"** (`../business_outcomes/AI_in_Cybersecurity_NACD_Handbook.md`)
     *   **Why**: Critical for understanding the board-level perspective on AI in cybersecurity, covering governance, risk, and strategic value—key executive concerns.
-4.  **"The Rise of AI Agents (Moody's)"** (`research_papers/Rise_of_AI_Agents_Moodys.md`)
+4.  **"The Rise of AI Agents (Moody's)"** (`../research_papers/Rise_of_AI_Agents_Moodys.md`)
     *   **Why**: Articulates the transformative potential of AI agents and their evolution, providing a vision for future capabilities and market disruption.
+5.  **"Building AI Agents - Real ROI in Enterprise SDLC (YouTube Summary)"** (`../learning_material/youtube_Building_AI_Agents_Real_ROI_Enterprise_SDLC.md`)
+    *   **Why**: Discusses achieving tangible ROI with AI agents in enterprise software development, directly aligning with executive focus on business outcomes.
 
 ### Phase 2: Governance, Economic Context, and Agent Capabilities
-5.  **"Practices for Governing Agentic AI Systems (OpenAI)"** (`research_papers/Practices_Governing_Agentic_AI_OpenAI.md`)
+6.  **"Practices for Governing Agentic AI Systems (OpenAI)"** (`../research_papers/Practices_Governing_Agentic_AI_OpenAI.md`)
     *   **Why**: Essential for understanding the principles of safe and responsible AI agent deployment, crucial for executive oversight and risk management.
-6.  Choose one for broader economic and societal context:
-    *   **"AI Automation Economy (ObamaWH)"** (`business_outcomes/AI_Automation_Economy_ObamaWH.md`)
-    *   **"Economic Impacts AI (EuroParl)"** (`business_outcomes/Economic_Impacts_AI_EuroParl_2019.md`)
+7.  Choose one for broader economic and societal context:
+    *   **"AI Automation Economy (ObamaWH)"** (`../business_outcomes/AI_Automation_Economy_ObamaWH.md`)
+    *   **"Economic Impacts AI (EuroParl)"** (`../business_outcomes/Economic_Impacts_AI_EuroParl_2019.md`)
     *   **Why**: Provides high-level context on AI's macroeconomic impacts, reinforcing its strategic importance.
-7.  **"Levels of AI Agents (arXiv)"** (`research_papers/Levels_of_AI_Agents_arXiv.md`)
+8.  **"Levels of AI Agents (arXiv)"** (`../research_papers/Levels_of_AI_Agents_arXiv.md`)
     *   **Why**: Offers a framework for understanding the varying levels of agent sophistication, helping to align strategic investments with realistic capability expectations.
+9.  **"Risks of Agentic AI / Autonomous AI (YouTube Summary)"** (`../learning_material/youtube_Risks_of_Agentic_AI_Autonomous_AI.md`)
+    *   **Why**: Crucial for executive understanding of potential risks associated with advanced AI agents, informing governance and strategic risk mitigation.
 
-### Phase 3: DevSecOps Landscape and Future Opportunities
-8.  **"Capgemini DevSecOps Report 2020"** (`research_papers/Capgemini_DevSecOps_Report_2020.md`)
+### Phase 3: DevSecOps Landscape, Future Trends, and Prompting Awareness
+10. **"Capgemini DevSecOps Report 2020"** (`../research_papers/Capgemini_DevSecOps_Report_2020.md`)
     *   **Why**: Gives an industry perspective on DevSecOps maturity and challenges, highlighting how agentic solutions can address key business needs.
-9.  **"AI for DevSecOps: Landscape & Future Opportunities (Fu)"** (`research_papers/AI_for_DevSecOps_Landscape_Future_Opportunities_Fu.md`)
+11. **"AI for DevSecOps: Landscape & Future Opportunities (Fu)"** (`../research_papers/AI_for_DevSecOps_Landscape_Future_Opportunities_Fu.md`)
     *   **Why**: Provides a forward-looking view of research and future trends, informing long-term strategic planning for AI in DevSecOps.
+12. **"Google Gemini for Google Workspace Prompting Guide 101"** (`../foundational_ai_content/google_gemini_workspace_prompting_guide_101.pdf.md`)
+    *   **Why**: Provides an accessible overview of effective AI interaction (prompting), strategically important for leaders to grasp how teams will leverage these new AI tools for productivity and innovation.
+13. **"OpenAI Cookbook: GPT-4.1 Prompting Guide"** (`../learning_material/openai_cookbook_gpt4_1_prompting_guide.md`)
+    *   **Why**: Awareness of advanced prompting capabilities and agentic design patterns helps executives understand the technical depth and potential of these systems.
+14. **High-Level Overviews of Agent Frameworks (GitHub Summaries):**
+    *   **AutoGen**: [`../learning_material/github_microsoft_autogen.md`](../learning_material/github_microsoft_autogen.md)
+    *   **SuperAGI**: [`../learning_material/github_TransformerOptimus_SuperAGI.md`](../learning_material/github_TransformerOptimus_SuperAGI.md)
+    *   **AgentVerse**: [`../learning_material/github_OpenBMB_AgentVerse.md`](../learning_material/github_OpenBMB_AgentVerse.md)
+    *   **Why**: Provides strategic awareness of the types of frameworks available for building sophisticated agentic solutions, informing technology strategy.
 
 ## Key High-Level Takeaways for Executives
 

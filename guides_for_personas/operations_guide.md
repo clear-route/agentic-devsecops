@@ -18,27 +18,38 @@ As an Operations professional, your primary concerns typically include:
 This reading path focuses on the operational benefits, implementation considerations, and governance of Agentic DevSecOps. Remember to consult the `.md` summaries first.
 
 ### Phase 1: Core DevSecOps, Automation, and Security in Operations
-1.  **"NIST SP 800-204C DevSecOps Implementation"** (`implementation_examples/NIST_SP_800_204C_DevSecOps.md`)
+1.  **"NIST SP 800-204C DevSecOps Implementation"** (`../implementation_examples/NIST_SP_800_204C_DevSecOps.md`)
     *   **Why**: Provides a strong foundation on implementing DevSecOps for modern cloud-native systems, highlighting 'as Code' paradigms (IaC, Observability as Code) and CI/CD automation — areas ripe for agentic enhancement in operations.
-2.  **"Guide to Implementing DevSecOps for SoS (SEI)"** (`implementation_examples/Guide_Implementing_DevSecOps_SEI.md`)
+2.  **"Guide to Implementing DevSecOps for SoS (SEI)"** (`../implementation_examples/Guide_Implementing_DevSecOps_SEI.md`)
     *   **Why**: Offers insights into managing DevSecOps in complex System of Systems, relevant for understanding operational challenges in large-scale environments where agents could simplify management.
-3.  **"Automating CI/CD & Policing Applications (Red Hat)"** (`implementation_examples/Automating_CICD_Policing_Applications_RedHat.md`)
+3.  **"Automating CI/CD & Policing Applications (Red Hat)"** (`../implementation_examples/Automating_CICD_Policing_Applications_RedHat.md`)
     *   **Why**: Details practical automation techniques in CI/CD and operational security (e.g., image scanning, deployment security), providing context for where agents can add intelligent layers.
 
-### Phase 2: AI in Security Operations and Agent Governance
-4.  **"AI in Cybersecurity (NACD Handbook)"** (`business_outcomes/AI_in_Cybersecurity_NACD_Handbook.md`)
+### Phase 2: AI in Security Operations Agent Capabilities, and Governance
+4.  **"AI in Cybersecurity (NACD Handbook)"** (`../business_outcomes/AI_in_Cybersecurity_NACD_Handbook.md`)
     *   **Why**: Crucial for understanding the strategic role of AI in enhancing security operations, including threat detection, incident response, and cost reduction—all key operational concerns.
-5.  **"Practices for Governing Agentic AI Systems (OpenAI)"** (`research_papers/Practices_Governing_Agentic_AI_OpenAI.md`)
+5.  **"Practices for Governing Agentic AI Systems (OpenAI)"** (`../research_papers/Practices_Governing_Agentic_AI_OpenAI.md`)
     *   **Why**: Essential reading for anyone deploying agents into production. It covers critical safety and governance practices like constrained actions, human oversight, monitoring, and interruptibility.
-6.  **"DevSecOps - An Ideal Use Case For Applying AI (Schwenger)"** (`implementation_examples/DevSecOps_An_Ideal_Use_Case_For_Applying_AI_Schwenger_2020.md`)
+6.  **"DevSecOps - An Ideal Use Case For Applying AI (Schwenger)"** (`../implementation_examples/DevSecOps_An_Ideal_Use_Case_For_Applying_AI_Schwenger_2020.md`)
     *   **Why**: Provides examples and use cases of AI in DevSecOps, which can inspire ideas for operational automation and efficiency improvements.
+7.  **"OpenAI Cookbook: GPT-4.1 Prompting Guide"** (`../learning_material/openai_cookbook_gpt4_1_prompting_guide.md`)
+    *   **Why**: Key for Operations to define precise instructions for agents performing automated tasks, managing configurations, or responding to alerts.
+8.  **"Google Gemini for Google Workspace Prompting Guide 101"** (`../foundational_ai_content/google_gemini_workspace_prompting_guide_101.pdf.md`)
+    *   **Why**: General prompting skills help in interacting with any AI-assisted operational tools or when defining requirements for new agent-based automations.
 
-### Phase 3: Understanding Agent Capabilities and Value
-7.  **"Levels of AI Agents (arXiv)"** (`research_papers/Levels_of_AI_Agents_arXiv.md`)
+### Phase 3: Understanding Agent Technologies and Frameworks
+9.  **"Levels of AI Agents (arXiv)"** (`../research_papers/Levels_of_AI_Agents_arXiv.md`)
     *   **Why**: Helps in understanding the different levels of sophistication and autonomy AI agents can have, informing how they can be applied to various operational tasks from simple automation to complex decision-making.
-8.  **"A practical guide to building agents (OpenAI)"** (`implementation_examples/Practical_Guide_Building_Agents_OpenAI.md`)
-    *   **Why**: While technical, understanding the basics of agent construction, tool integration, and guardrails is important for operations teams who will manage and interact with these agents.
-9.  **"Calculating ROI Intelligent Automation (Deloitte)"** (`business_outcomes/Calculating_ROI_Intelligent_Automation_Deloitte.md`)
+10. **"A practical guide to building agents (OpenAI)"** (`../learning_material/youtube_Practical_Guide_Building_Agents_OpenAI.md` - *Review as this refers to a YouTube summary, original link may be in `implementation_examples` if it was a PDF*)
+    *   **Why**: Understanding the basics of agent construction, tool integration, and guardrails is important for operations teams who will manage and interact with these agents.
+11. **"What is Ollama? Running Local LLMs Made Simple (YouTube Summary)"** (`../learning_material/youtube_What_is_Ollama_Running_Local_LLMs_Made_Simple.md`)
+    *   **Why**: Relevant for Ops if considering on-premise or locally managed LLM deployments for agents, impacting infrastructure and maintenance.
+12. **Agent Framework Overviews (GitHub Summaries):**
+    *   **AutoGen**: [`../learning_material/github_microsoft_autogen.md`](../learning_material/github_microsoft_autogen.md) - For multi-agent systems that might automate complex operational sequences.
+    *   **SuperAGI**: [`../learning_material/github_TransformerOptimus_SuperAGI.md`](../learning_material/github_TransformerOptimus_SuperAGI.md) - If Ops needs to manage or deploy infrastructure for autonomous agent frameworks.
+    *   **AgentVerse**: [`../learning_material/github_OpenBMB_AgentVerse.md`](../learning_material/github_OpenBMB_AgentVerse.md) - For understanding multi-LLM environments if Ops is involved in their setup or maintenance.
+    *   **Why**: Awareness of these frameworks is useful if Operations is involved in deploying, scaling, or monitoring the infrastructure for agentic systems.
+13. **"Calculating ROI Intelligent Automation (Deloitte)"** (`../business_outcomes/Calculating_ROI_Intelligent_Automation_Deloitte.md`)
     *   **Why**: Useful for understanding the efficiency gains and cost savings that intelligent automation (including AI agents) can bring to operations.
 
 ## Key High-Level Takeaways for Operations Professionals
